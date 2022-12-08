@@ -4,9 +4,12 @@
 - 📫 How to reach me: **jaxstar24@gmail.com**
 
 Projects:
+ - 🌟 starstruck: game about a meteor that has to reach earth | play at terraboi4.itch.io/starstruck
 
 Working on:
-  🌟 starstruck: game about a meteor that has to reach earth
+ - 🧑‍💻 Building personal website with glitch
+  
+  
   
 
 <!---
