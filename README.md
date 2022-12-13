@@ -4,12 +4,11 @@
 - 📫 How to reach me: **jaxstar24@gmail.com**
 
 Projects:
- - 🌟 starstruck: game about a meteor that has to reach earth | play [here](terraboi4.itch.io/starstruck)
+ - 🌟 starstruck: game about a meteor that has to reach earth | play [here](https://terraboi4.itch.io/starstruck)
 
 Working on:
- - 🧑‍💻 Building personal website with glitch
-  
-  
+ - 🧑‍💻 Building personal website with glitch | check it out [here](https://terraboi.glitch.me)
+ - 👻 Godot Wild Jam - theme: ghosts  
   
 
 <!---
