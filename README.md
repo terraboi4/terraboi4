@@ -9,6 +9,5 @@ Projects:
 
 Working on:
  - 🧑‍💻 Building personal website with glitch | check it out <a href="https://terraboi.glitch.me" target="_blank">here</a> 
- - ❄ making game in PICO-8 where you play as frozone from the incredibles
-  
+ - 🤖 gptrivia: kahoot-like website where chatgpt generates the questions  
 
