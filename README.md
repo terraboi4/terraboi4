@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@terraboi4**
 - 👀 I’m interested in **webdev**
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **React**
 
 Projects:
  - 🌟 starstruck: game about a meteor that has to reach earth | play <a href="https://itch.io/terraboi4/starstruck/" target="_blank">here</a>
